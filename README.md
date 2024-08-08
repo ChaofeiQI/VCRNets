@@ -1,4 +1,4 @@
-# MindfulVision: Few-Shot Learning through Human-Centric Visual Cognition
+# Advancing Fine-Grained Few-Shot Learning via Human-Centric Visual Cognition
 
 This package includes our codes for implementing "MindfulVision: Few-Shot Learning through Human-Centric Visual Cognition". 
 (First Release Date: 2024-8-8)
