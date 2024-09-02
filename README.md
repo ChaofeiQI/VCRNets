@@ -83,22 +83,22 @@ bash ./scripts/test.sh  stanford-car vcnet12 0 trial1
              <td style="text-align:center">Conv4</td>
              <td style="text-align:center;"> 80.30±0.23 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1ygWhQScM025txnI7GDwRoWzpKWtkWUI6?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1gcMXajfecxjwwgP7As5KupjF5XQwUxNU/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1gcMXajfecxjwwgP7As5KupjF5XQwUxNU/view?usp=drive_link">TestGIF</a></td>
              <td style="text-align:center">Conv4</td>
              <td style="text-align:center;"> 90.99±0.12 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1ygWhQScM025txnI7GDwRoWzpKWtkWUI6?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/184sFU0qLnYp8kZDzL-FVTnYADPQDAsCq/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/184sFU0qLnYp8kZDzL-FVTnYADPQDAsCq/view?usp=drive_link">TestGIF</a></td>
          </tr>
          <tr>
              <td style="text-align:center">VCRNet-12</td>
              <td style="text-align:center">ResNet12</td>
              <td style="text-align:center;">86.77±0.20 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1wjoy9oNK_Y9yfsd2-tZrPv8eZOvKf2X4?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1qeRSKRSkRD_ZDHeVNLxJYEqXF3slWniN/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1qeRSKRSkRD_ZDHeVNLxJYEqXF3slWniN/view?usp=drive_link">TestGIF</a></td>
              <td style="text-align:center">ResNet12</td>
              <td style="text-align:center;">94.20±0.10 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1wjoy9oNK_Y9yfsd2-tZrPv8eZOvKf2X4?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Y6CU7pFiZAMCs138oLNZ38UQbvSyEiRH/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1Y6CU7pFiZAMCs138oLNZ38UQbvSyEiRH/view?usp=drive_link">TestGIF</a></td>
          </tr>
 </table>
 
@@ -126,22 +126,22 @@ bash ./scripts/test.sh  stanford-car vcnet12 0 trial1
              <td style="text-align:center">Conv4</td>
              <td style="text-align:center;">81.69±0.22</td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1Znmi8KQ_OsfB9jbBTbDXiOmIFCUhk1jy?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/134go9CdEfcSgckM58UtG187Ldp8NLUO4/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/134go9CdEfcSgckM58UtG187Ldp8NLUO4/view?usp=drive_link">TestGIF</a></td>
              <td style="text-align:center">Conv4</td>
              <td style="text-align:center;">  92.21±0.10 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1Znmi8KQ_OsfB9jbBTbDXiOmIFCUhk1jy?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1fMI_fYurE0YMlt691cKdocszmIDB1yox/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1fMI_fYurE0YMlt691cKdocszmIDB1yox/view?usp=drive_link">TestGIF</a></td>
          </tr>
          <tr>
              <td style="text-align:center">VCRNet-12</td>
              <td style="text-align:center">ResNet12</td>
              <td style="text-align:center;">90.42±0.18 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1SAwI-EiLbeSsBZ6VJ7AwNiGgmVCYMkU2?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1lgEuwu5f6LtS1fHHbAKzldyIbxNT2z86/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1lgEuwu5f6LtS1fHHbAKzldyIbxNT2z86/view?usp=drive_link">TestGIF</a></td>
              <td style="text-align:center">ResNet12</td>
              <td style="text-align:center;">95.15±0.08 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1SAwI-EiLbeSsBZ6VJ7AwNiGgmVCYMkU2?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1uWG85KDzuAtereUam5WlyfDXyqdeREE9/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1uWG85KDzuAtereUam5WlyfDXyqdeREE9/view?usp=drive_link">TestGIF</a></td>
          </tr>
 </table>
 
@@ -170,22 +170,22 @@ bash ./scripts/test.sh  stanford-car vcnet12 0 trial1
              <td style="text-align:center">Conv4</td>
              <td style="text-align:center;">69.01±0.24 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1DNZJHaA7IgEhQMs04BXCfHdwqeRR0ai2?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1PhChXmq189WojPubwpVVPT3udptWela8/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1PhChXmq189WojPubwpVVPT3udptWela8/view?usp=drive_link">TestGIF</a></td>
              <td style="text-align:center">Conv4</td>
              <td style="text-align:center;">84.42±0.15 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1DNZJHaA7IgEhQMs04BXCfHdwqeRR0ai2?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1WkNrWGIElItmg6C62HAQSxm7DJHP6Z45/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1WkNrWGIElItmg6C62HAQSxm7DJHP6Z45/view?usp=drive_link">TestGIF</a></td>
          </tr>
          <tr>
              <td style="text-align:center">VCRNet-12</td>
              <td style="text-align:center">ResNet12</td>
              <td style="text-align:center;">83.81±0.21 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1NxEBcnEMWBIwm6yjIlK7M5gWn6IVlQWY?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1_31RjEcrznHxdFK-T-zmaiaCc-yj1hqS/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1_31RjEcrznHxdFK-T-zmaiaCc-yj1hqS/view?usp=drive_link">TestGIF</a></td>
              <td style="text-align:center">ResNet12</td>
              <td style="text-align:center;">92.82±0.11 </td>
              <td style="text-align:center;"><a href="https://drive.google.com/drive/folders/1NxEBcnEMWBIwm6yjIlK7M5gWn6IVlQWY?usp=drive_link">Download</a></td>
-             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1VISLzlrM_8S5SDDiySy_LRqssujqhPHc/view?usp=drive_link">Test Process GIF</a></td>
+             <td style="text-align:center;"><a href="https://drive.google.com/file/d/1VISLzlrM_8S5SDDiySy_LRqssujqhPHc/view?usp=drive_link">TestGIF</a></td>
          </tr>
 </table>
 
