@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Research-VCRNets-brightgreen)
 ![](https://img.shields.io/badge/Visual-Cognition-brightgray)
 ![](https://img.shields.io/badge/Meta-Learning-brightred)
-![](https://img.shields.io/badge/FineGrained-Fewshot-brightred)
+![](https://img.shields.io/badge/FineGrained-FSL-brightred)
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
