@@ -2,9 +2,7 @@
 ![](https://img.shields.io/badge/Meta-VCRNets-brightgreen)
 ![](https://img.shields.io/badge/Meta-Learning-brightred)
 ![](https://img.shields.io/badge/Few-Shot-brightblue)
-![](https://img.shields.io/badge/Image-Classification-brightgray)
-![](https://img.shields.io/badge/NVIDIA-555.52.04-yellowgreen)
-![](https://img.shields.io/badge/CUDA-12.5-yellowgreen)
+![](https://img.shields.io/badge/Visual-Cognition-brightgray)
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
