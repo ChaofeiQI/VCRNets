@@ -1,5 +1,5 @@
 # Advancing Fine-Grained Few-Shot Learning via Human-Centric Visual Cognition
-![](https://img.shields.io/badge/Meta-VCRNets-brightgreen)
+![](https://img.shields.io/badge/Research-VCRNets-brightgreen)
 ![](https://img.shields.io/badge/Meta-Learning-brightred)
 ![](https://img.shields.io/badge/Few-Shot-brightblue)
 ![](https://img.shields.io/badge/Visual-Cognition-brightgray)
