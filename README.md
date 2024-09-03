@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/PyTorch-%3E%3Dv1.8.1-green)
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
->This package includes our codes for implementing "MindfulVision: Few-Shot Learning through Human-Centric Visual Cognition". 
+>This package includes our codes for implementing "Advancing Fine-Grained Few-Shot Learning via Human-Centric Visual Cognition". 
 (First Release Date: 2024-8-8)
 >
 # Introduction
