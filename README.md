@@ -7,7 +7,8 @@
 ![](https://img.shields.io/badge/Python-%3E%3Dv3.7-yellowgreen)
 
 >This package includes our codes for implementing "Advancing Fine-Grained Few-Shot Learning via Human-Centric Visual Cognition". 
-(First Release Date: 2024-8-8)   Slide: https://github.com/ChaofeiQI/VCRNets/releases/tag/Slide
+(First Release Date: 2024-8-8)
+>Slide: https://github.com/ChaofeiQI/VCRNets/releases/tag/Slide
 >
 # Introduction
 
