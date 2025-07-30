@@ -8,7 +8,10 @@
 
 >This package includes our codes for implementing "Advancing Fine-Grained Few-Shot Learning via Human-Centric Visual Cognition". 
 (First Release Date: 2024-8-8)
+
 >Slide: https://github.com/ChaofeiQI/VCRNets/releases/tag/Slide
+>Benchmark Link: https://pan.baidu.com/s/13oma_kzVscOVfYrA0sQL0w  Code: fda7
+
 >
 # Introduction
 
